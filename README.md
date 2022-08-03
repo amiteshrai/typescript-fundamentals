@@ -1,1 +1,1 @@
-# typescript-fundamentals
+# TypeScript Fundamentals
