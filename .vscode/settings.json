@@ -1,0 +1,25 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.multiCursorModifier": "alt",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "emmet.includeLanguages": {
+        "typescript": "html",
+        "javascript": "javascriptreact"
+    },
+    "typescript.validate.enable": false,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ]
+}
